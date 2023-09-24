@@ -1,0 +1,109 @@
+.Back{
+background-color: #614783;
+justify-content: center;
+text-align: center;
+padding-top: 40px;
+height: 600px;
+
+}
+.padd{
+    padding-bottom: 60px;
+}
+.pp{
+    color: white;
+    font-size: 40px;
+}
+.free{
+    text-align: center;
+    padding-top: 100px;
+    
+}.We{
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+.grid{
+    justify-content: center;
+    text-align: center;
+    
+}
+.text{
+    text-align: center;
+}
+.para{
+    padding: 40px;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: #b0eaff;
+    
+}
+
+.section{
+    text-align: center;
+    font-size: 20px;
+    background-color: #f9f9f9;
+    height: 700px;
+    padding-top: 80px;
+}
+.list{
+    gap: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.Simplicity{
+    padding: 40px;
+    text-align: center;
+    
+    font-size: 20px;
+    font-weight: 10px;
+}
+.cards{
+    display: flex;
+    gap: 90px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.from{
+    text-align: center;
+    font-size: larger;
+    background-color: #f9f9f9;
+    max-height: fit-content;
+    padding: 60px;
+}
+.sub{
+    text-align: center;
+    font-size: 20px;
+    padding: 60px;
+}
+.email{
+    padding-bottom: 50px;
+}
+.foot{
+    text-align: center;
+    justify-content: center;
+    background-color: #614783;
+    height: 200px;
+    display: flex;
+    color: aliceblue;
+}
+.copy{
+    display: flex,;
+    text-align: center;
+    justify-content: center;
+}
+ul{
+
+    list-style-type: ;
+}
+ul li a{
+    color: #5b4181;
+}
+ol{
+    list-style-type: none;
+}
